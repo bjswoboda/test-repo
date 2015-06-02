@@ -8,14 +8,14 @@
 
 Table of Contents
 =================
-* [Overview](#Overview)
+* [Overview](#overview)
 * [Audience](#Audience)
 * [Prerequisites](#Prerequisites)
 * [Support](#Support)
 * [Execution Options](#Execution-Options)
-* [Option 1: Blueprint](#Option-1:-Blueprint)
-* [Option 2: Group Action](#Option-2:-Group-Action)
-* [Option 3: API](#Option-3:-API)
+* [Option 1: Blueprint](#Option-1-Blueprint)
+* [Option 2: Group Action](#Option-2-Group-Action)
+* [Option 3: API](#Option-3-API)
 * [Summary of All Patches Deployed to a Server](#Summary-of-All-Patches-Deployed-to-a-Server)
 * [Detail of Patches Deployed in an Execution](#Detail-of-Patches-Deployed-in-an-Execution)
 
