@@ -9,18 +9,17 @@
 Table of Contents
 =================
 * [Overview](#overview)
-* [Audience](#Audience)
-* [Prerequisites](#Prerequisites)
-* [Support](#Support)
-* [Execution Options](#Execution-Options)
-* [Option 1: Blueprint](#Option-1-Blueprint)
-* [Option 2: Group Action](#Option-2-Group-Action)
-* [Option 3: API](#Option-3-API)
-* [Summary of All Patches Deployed to a Server](#Summary-of-All-Patches-Deployed-to-a-Server)
-* [Detail of Patches Deployed in an Execution](#Detail-of-Patches-Deployed-in-an-Execution)
+* [Audience](#audience)
+* [Prerequisites](#prerequisites)
+* [Support](#support)
+* [Execution Options](#execution-options)
+* [Option 1: Blueprint](#option-1-Blueprint)
+* [Option 2: Group Action](#ption-2-Group-Action)
+* [Option 3: API](#option-3-API)
+* [Summary of All Patches Deployed to a Server](#summary-of-all-patches-deployed-to-a-server)
+* [Detail of Patches Deployed in an Execution](#detail-of-patches-deployed-in-an-execution)
 
 
-!!!!!!!!!!
 
 ### Overview
 
@@ -40,7 +39,7 @@ CenturyLink Cloud Users
 
 ### Prerequisites
 
-* Servers with Operating Systems listed in the overview, above
+* Servers with Operating Systems listed in the Overview, above
 * Careful consideration of the impacts of applying all available patches to a server
 
 ### Support
@@ -48,6 +47,7 @@ CenturyLink Cloud Users
 This service has been tested for the scope identified within this article. Product improvement is important to us so our Product Team will be aware of issues related to this service, but no one will providing direct client support. If you have suggestions for improvement, please submit a feature request.
 
 ### Pricing
+
 This service is free of charge.
 
 ### Execution Options
